@@ -2,7 +2,9 @@
 #### Alunos: Wanderson R. Marques (wrm@cin.ufpe.br) & David Soares (dsm3@cin.ufpe.br)
 
 <br />
+
 ![](previews.png)
+
 ### Descrição do DataSet
 
 <br />
