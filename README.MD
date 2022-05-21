@@ -1,8 +1,8 @@
 ## Projeto de avaliação da disciplina Introdução à Análise de Dados - Prof. Luciano Barbosa
-#### Alunos: David Soares (dsm3@cin.ufpe.br) & Wanderson R. Marques (wrm@cin.ufpe.br)
+#### Alunos: Wanderson R. Marques (wrm@cin.ufpe.br) & David Soares (dsm3@cin.ufpe.br)
 
 <br />
-
+![](previews.png)
 ### Descrição do DataSet
 
 <br />
